@@ -1,1 +1,1 @@
-{"code":200,"message":"success","data":{"version":"1.0.1","update_type":1,"url":"https://a.app.qq.com/o/simple.jsp?pkgname=com.dbaglobal.myapplication","production":0,"content":"","break_web":0}}
+{"code":200,"message":"success","data":{"version":"1.0.0","update_type":1,"url":"https://a.app.qq.com/o/simple.jsp?pkgname=com.dbaglobal.myapplication","production":0,"content":"","break_web":0}}
