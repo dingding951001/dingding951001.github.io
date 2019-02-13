@@ -1,1 +1,1 @@
-XXX&1.0&&https://dingding951001.github.io/app-release.apk
+{"code":200,"message":"success","data":{"version":"1.0.1","update_type":1,"url":"https://a.app.qq.com/o/simple.jsp?pkgname=com.dbaglobal.myapplication","production":0,"content":"","break_web":0}}
